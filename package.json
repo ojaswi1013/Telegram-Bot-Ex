@@ -1,0 +1,26 @@
+{
+  "name": "telegram-bot-ex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "startscript": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ojaswi1013/Telegram-Bot-Ex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ojaswi1013/Telegram-Bot-Ex/issues"
+  },
+  "homepage": "https://github.com/ojaswi1013/Telegram-Bot-Ex#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "node-telegram-bot-api": "^0.53.0"
+  }
+}
